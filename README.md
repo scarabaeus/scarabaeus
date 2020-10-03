@@ -1,14 +1,18 @@
+<p align="center" color="#ff0000">
+Steve's Web Page
+</p>
+
 <p align="center">
-  
-![Flaming header](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/flames.gif)
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/under-construction.gif" alt="This site is under construction"/>
+</p>
 
-# Welcome to Steve's Web Page
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/gc_icon.gif" alt="Geocities"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/ie_animat.gif" alt="Best viewed with Internet Explorer"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif" alt="Find it on Lycos]"/>
+</p>
 
-![This site is under construction](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/under-construction.gif)
 
-| ![Image of Geocities](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/gc_icon.gif) 	| ![Best viewed with IE 3](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/ie_animat.gif) 	| ![Find it on Lycos](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif) 	|
-|:-----:	|:-----:	|:-----:	|
-
-© Copyright 1997. All rights reserved.
-
+<p align="center">
+  © Copyright 1997. All rights reserved.
 </p>
