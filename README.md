@@ -13,6 +13,5 @@
 </p>
 
 <p align="center">
-  © Copyright 1997. All rights reserved. <br />
   This site is optimized for Netscape Navigator 2.0 or higher and 24bit RGB True color.
 </p>
