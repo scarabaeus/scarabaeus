@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  
+![Flaming header](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/flames.gif)
 
-<!--
-**scarabaeus/scarabaeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Steve's Web Page
 
-Here are some ideas to get you started:
+![This site is under construction](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/under-construction.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ![Image of Geocities](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/gc_icon.gif) 	| ![Best viewed with IE 3](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/ie_animat.gif) 	| ![Find it on Lycos](https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif) 	|
+|:-----:	|:-----:	|:-----:	|
+
+© Copyright 1997. All rights reserved.
+
+</p>
