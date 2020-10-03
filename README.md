@@ -1,5 +1,5 @@
-<p align="center" color="#ff0000">
-Steve's Web Page
+<p align="center">
+<img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/steve.gif" alt="This site is under construction"/>
 </p>
 
 <p align="center">
