@@ -12,7 +12,7 @@ Steve's Web Page
   <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif" alt="Find it on Lycos]"/>
 </p>
 
-
 <p align="center">
-  © Copyright 1997. All rights reserved.
+  © Copyright 1997. All rights reserved. <br />
+  This site is optimized for Netscape Navigator 2.0 or higher and 24bit RGB True color.
 </p>
