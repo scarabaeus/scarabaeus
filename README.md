@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/flames.gif" alt="This site is under construction"/>
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/steve.gif" alt="This site is under construction"/>
 </p>
 
