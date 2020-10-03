@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center" color="#ff0000">
+Steve's Web Page
+</p>
 
-<!--
-**scarabaeus/scarabaeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/under-construction.gif" alt="This site is under construction"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/gc_icon.gif" alt="Geocities"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/ie_animat.gif" alt="Best viewed with Internet Explorer"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif" alt="Find it on Lycos]"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  © Copyright 1997. All rights reserved. <br />
+  This site is optimized for Netscape Navigator 2.0 or higher and 24bit RGB True color.
+</p>
