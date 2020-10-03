@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  This site is optimized for Netscape Navigator 2.0 or higher and 24bit RGB True color.
+  This site is optimized for <a href="https://web.archive.org/web/19970414210647/http://www37.netscape.com/">Netscape Navigator 2.0</a> or higher and 24bit RGB True color.
 </p>
