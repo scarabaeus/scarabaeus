@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  My dad says the Internet is a fad. Let's try to prove him wrong!<br /><br />
   <a href="https://github.com/scarabaeus/scarabaeus/issues">Sign my Guestbook</a>
 </p>
 
