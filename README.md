@@ -22,7 +22,7 @@
 <p align="center"> 
   <a href="https://web.archive.org/web/19961226152953/http://www1.geocities.com/"><img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/gc_icon.gif" alt="Geocities"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://web.archive.org/web/19981205060735/http://microsoft.com/"><img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/ie_animat.gif" alt="Best viewed with Internet Explorer"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://web.archive.org/web/19971211190429/http://www.lycos.com/"><img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif" alt="Find it on Lycos]"/>&nbsp;</a>
+  <a href="https://web.archive.org/web/19971211190429/http://www.lycos.com/"><img src="https://raw.githubusercontent.com/scarabaeus/scarabaeus/main/img/lycos.gif" alt="Find it on Lycos]"/></a>
 </p>
 
 <p align="center">
