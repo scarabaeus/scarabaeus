@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://stackoverflow.com/users/3180489/steve-gomez"><img src="https://stackoverflow.com/users/flair/3180489.png" width="208" height="58" alt="profile for Steve Gomez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Steve Gomez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
+<p align="center">
   My dad says &quot;the Internet is a fad&quot; — Let's try to prove him wrong!<br /><br />
   <a href="https://github.com/scarabaeus/scarabaeus/issues">Sign my Guestbook</a>
 </p>
