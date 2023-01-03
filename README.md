@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/3180489/steve-gomez"><img src="https://stackoverflow.com/users/flair/3180489.png" width="208" height="58" alt="profile for Steve Gomez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Steve Gomez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  <a href="https://stackoverflow.com/users/3180489/steve-gomez"><img src="https://stackoverflow.com/users/flair/3180489.png" width="208" height="58" alt="Stack Overflow: Steve Gomez" title="Stack Overflow: Steve Gomez"></a>
 </p>
 
 <p align="center">
